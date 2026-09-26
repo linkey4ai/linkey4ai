@@ -11,7 +11,8 @@ Yerevan, Armenia · Remote (GMT+4) · [sergey@bondar.cc](mailto:sergey@bondar.cc
 
 ## Projects
 - [**erp-cfo-telegram-bot**](https://github.com/linkey4ai/erp-cfo-telegram-bot) — a Telegram bot that gives a CFO sales, receivables and payables aging reports from 1C:ERP (read-only OData), with roles, per-company scope and an audit log. Includes an [anonymized case study](https://github.com/linkey4ai/erp-cfo-telegram-bot/blob/main/docs/case-study-cfo-audit.md) of an AI-agent audit of a finance director's workbook.
-- **In production, private code:** a contract risk review and company check bot (Claude), portfolio assistants on live brokerage data, a D2C online store with payments and delivery integrations, server monitoring with a morning report, a job-search radar across 8 job boards.
+- [**contract-risk-bot**](https://github.com/linkey4ai/contract-risk-bot) — a Telegram bot for Russian B2B due diligence: company check by tax ID (public registries) and contract review with Claude against a fixed legal risk checklist, strict JSON output and a PDF report. Used by my team and external users.
+- **In production, private code:** portfolio assistants on live brokerage data, a D2C online store with payments and delivery integrations, server monitoring with a morning report, a job-search radar across 8 job boards.
 
 ## Background
 25+ years founding and running telecom and IT companies: a full-cycle telecom operator built from zero and sold, IT for a nationwide auto holding (65+ sites), R&D of navigation equipment, and an ICT policy unit at the national telecom ministry. Since 2024 — production AI.
